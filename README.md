@@ -1,2 +1,2 @@
 # demo_task
-this is repository for task work
+This is the repository for task work
